@@ -1,0 +1,9 @@
+{
+    "name": "noushadnipun/clippingpart-wp-theme",
+    "description": "Description of the theme",
+    "type": "wordpress-theme",
+    "require": {
+        "php": "^7.0",
+        // Other dependencies
+    }
+}
