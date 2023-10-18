@@ -4,6 +4,5 @@
     "type": "wordpress-theme",
     "require": {
         "php": "^7.0",
-        // Other dependencies
     }
 }
